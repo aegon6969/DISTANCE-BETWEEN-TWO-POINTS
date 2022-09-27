@@ -26,3 +26,4 @@ print("{:.2f}".format(distance))
 
 
 ### RESULT:
+This program is used to find the distance between two points.
